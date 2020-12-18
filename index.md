@@ -2,10 +2,12 @@
 layout: default
 ---
 
-![Sriharan](https://github.com/sriharan16/sriharan16.github.io/blob/develop/sriharan_profile.jpg)
-# Sriharan Manogaran
-Software Engineer - Machine Learning @ [Freshworks](www.freshworks.com/)
+<img src="/sriharan_profile.jpg" height="200" width="180">
+
+ # Sriharan Manogaran
+ Software Engineer - Machine Learning @ [Freshworks](www.freshworks.com/)
+
+Experienced Machine Learning Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Machine Learning, Spring Boot, Flask, FastAPI, Management, Web Applications, AWS, Python, Java, and Public Speaking. Strong engineering professional with a Bachelor's degree focused on Computer Science from Sathyabama University. 
+
 
 ```Page Under Construction```
-
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
