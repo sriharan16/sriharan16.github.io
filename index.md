@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="/sriharan_profile.jpg" height="200" width="180">
+<img src="/sriharan_bw.png" height="200" width="180">
 
  # Sriharan Manogaran
  Software Engineer - Machine Learning @ [Freshworks](www.freshworks.com/)
