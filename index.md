@@ -1,6 +1,6 @@
 <img src="/sriharan_bw.png" height="200" width="180">
 
-# Sriharan Manogaran
+# _Sriharan Manogaran_
 > ###### Curious, Learn, Innovate, Travel
 > ##### Software Engineer - Machine Learning @ [Freshworks](www.freshworks.com/)
 
