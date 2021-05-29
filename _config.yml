@@ -1,11 +1,10 @@
 theme: jekyll-theme-hacker
 title: Sriharan Manogaran
-author: Sriharan Manogaran
-google_analytics:
 
 
-social_links:
-  email: "sriharan72@gmail.com"
+author:
+  name: Sriharan Manogaran
+  email: sriharan72@gmail.com
   linkedin: sriharan16
   github: sriharan16
   medium: sriharan16
